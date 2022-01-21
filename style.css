@@ -42,6 +42,7 @@ body {
     background-color: var(--white);
     gap: 2.25rem;
     height: max-content;
+    box-shadow: 0 15px 20px 0 hsla(219, 15%, 55%, 0.213);
 }
 
 .img-container {
