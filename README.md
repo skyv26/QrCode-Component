@@ -11,8 +11,6 @@
 - Solution URL: [Github](https://github.com/skyv26/QrCode-Component)
 - Live Site URL: [Git Pages](https://skyv26.github.io/QrCode-Component/)
 
-## My process
-
 ## Author
 
 - Website - [@devaakashv](https://www.linkedin.com/in/devaakashv)
