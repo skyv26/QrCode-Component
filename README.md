@@ -13,14 +13,6 @@
 
 ## My process
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-
 ## Author
 
 - Website - [@devaakashv](https://www.linkedin.com/in/devaakashv)
