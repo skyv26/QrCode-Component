@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/skyv26/QrCode-Component)
-- Live Site URL: [Git Pages](https://skyv26.github.io/QrCode-Component/)
+- Live Site URL: [Git Pages]()
 
 ## Author
 
@@ -116,7 +116,7 @@ For more information on the importance of a professional README for your reposit
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Project](https://skyv26.github.io/QrCode-Component/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
