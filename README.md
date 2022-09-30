@@ -1,10 +1,5 @@
 
 
-## Overview
-
-### Screenshot
-
-![All device preview](./images/screenshot.png)
 
 ### Links
 
