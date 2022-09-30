@@ -71,7 +71,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="" alt="logo" width="140"  height="auto" />
+  <img src="./images/screenshot.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>README Template</b></h3>
