@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/skyv26/QrCode-Component)
+- Solution URL: [Github]()
 - Live Site URL: [Git Pages]()
 
 ## Author
@@ -138,27 +138,19 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/QrCode-Component.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/Tip-Calculator-App
 ```
---->
 
 ### Usage
 
