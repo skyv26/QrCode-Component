@@ -173,15 +173,9 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
 ```
- -->
+You can deploy this project using gh-pages or other platforms like vercel.
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
