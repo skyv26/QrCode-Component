@@ -142,16 +142,6 @@ Clone this repository to your desired folder:
   cd DESIRED_FOLDER
   git clone https://github.com/skyv26/QrCode-Component.git
 ```
-
-### Install
-
-Install this project with:
-
-```sh
-  cd DESIRED_FOLDER
-  git clone https://github.com/skyv26/Tip-Calculator-App
-```
-
 ### Usage
 
 ```
