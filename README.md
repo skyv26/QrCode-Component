@@ -6,12 +6,6 @@
 - Solution URL: [Github]()
 - Live Site URL: [Git Pages]()
 
-## Author
-
-- Website - [@devaakashv](https://www.linkedin.com/in/devaakashv)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Twitter - [@vrma_aakash](https://www.twitter.com/vrma_aakash)
-
 <a name="readme-top"></a>
 
 <!--
