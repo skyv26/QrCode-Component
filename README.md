@@ -1,11 +1,3 @@
-
-
-
-### Links
-
-- Solution URL: [Github]()
-- Live Site URL: [Git Pages]()
-
 <a name="readme-top"></a>
 
 <!--
