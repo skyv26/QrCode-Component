@@ -37,8 +37,6 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  /* background-color: red; */
-  /* margin-top: 8.25rem; */
   border-radius: 1.75rem;
   padding: 1.4rem 1.6rem;
   background-color: var(--white);
